@@ -41,4 +41,4 @@
 ## 📄 开源协议
  • MIT License
 
-> ### Made with ❤️ for LuxDialogues community.# LuxDialogues Editor
+> ### Made with ❤️ for LuxDialogues community.
